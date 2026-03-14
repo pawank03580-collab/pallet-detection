@@ -1,1 +1,1 @@
-# pallet-detection
+# OJT Assignments
